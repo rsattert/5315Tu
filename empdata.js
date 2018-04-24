@@ -1,124 +1,109 @@
 {
   "data": [
     {
-      "name": "Garrett Winters",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "name": "James Bond",
+      "email": "jbond@mi6.com",
+      "DOB": "1924/04/13",
+      "Last 4 SS": "0987",
+      "phone": "(232)347 8569"
     },
     {
       "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "email": "Briellebell@hotmail.com",
+      "DOB": "1976/08/25",
+      "Last 4 SS": "8967",
+      "phone": "(908)756 9283"
     },
     {
       "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "email": "Acox@aol.com",
+      "DOB": "1968/01/12",
+      "Last 4 SS": "3576",
+      "phone": "(847)758 9384"
     },
     {
       "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "email": "satou@email.com",
+      "DOB": "1981/10/14",
+      "Last 4 SS": "2349",
+      "phone": "(473)845 8495"
     },
     {
       "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "email": "lancevance@hotmail.com",
+      "DOB": "1985/06/15",
+      "Last 4 SS": "8639",
+      "phone": "(909)787 3924"
     },
     {
       "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "email": "deckerman@aol.com",
+      "DOB": "1987/02/28",
+      "Last 4 SS": "1113",
+      "phone": "(674)738 3928"
     },
     {
       "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "email": "ckelly@email.com",
+      "DOB": "1991/09/13",
+      "Last 4 SS": "0329",
+      "phone": "(234)892 2932"
     },
     {
       "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "email": "haleyk@msn.com",
+      "DOB": "1995/09/29",
+      "Last 4 SS": "1218",
+      "phone": "(296)939 3597"
     },
     {
       "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "email": "hurstdontit@yahoo.com",
+      "DOB": "1988/07/18",
+      "Last 4 SS": "0915",
+      "phone": "(595)864 2360"
     },
     {
       "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "email": "dairios@hotmail.com",
+      "DOB": "1993/08/17",
+      "Last 4 SS": "0926",
+      "phone": "(122)129 2290"
     },
     {
       "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "email": "hchandler@hotmail.com",
+      "DOB": "1990/06/17",
+      "Last 4 SS": "2930",
+      "phone": "(347)278 2938"
     },
     {
       "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "email": "rhonaround@gmail.com",
+      "DOB": "1977/08/28",
+      "Last 4 SS": "1782",
+      "phone": "(237)392 0192"
     },
     {
       "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "email": "sofrosty@personal.com",
+      "DOB": "1982/12/24",
+      "Last 4 SS": "1023",
+      "phone": "(823)829 1928"
     },
     {
       "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "email": "jenag@email.com",
+      "DOB": "1984/11/30",
+      "Last 4 SS": "3485",
+      "phone": "(723)345 7849"
     },
     {
       "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "email": "quinnflynn@business.com",
+      "DOB": "1980/10/25",
+      "Last 4 SS": "0234",
+      "phone": "(548)493 3049"
     }
   ]
 }
