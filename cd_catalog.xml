@@ -1,211 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
 	<CD>
-		<TITLE>Empire Burlesque</TITLE>
-		<ARTIST>Bob Dylan</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Columbia</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1985</YEAR>
+	 	<name>James Bond</name>
+     	<email>jbond@mi6.com</email>
+     	<DOB>1924/04/13</DOB>
+     	<Last_4_SS>0987</Last_4_SS>
+     	<phone>(232)347 8569</phone>
 	</CD>
 	<CD>
-		<TITLE>Hide your heart</TITLE>
-		<ARTIST>Bonnie Tyler</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>CBS Records</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1988</YEAR>
+		<name>Brielle Williamson</name>
+     	<email>Briellebell@hotmail.com</email>
+     	<DOB>1976/08/25</DOB>
+     	<Last_4_SS>8967</Last_4_SS>
+     	<phone>(908)756 9283</phone>
 	</CD>
 	<CD>
-		<TITLE>Greatest Hits</TITLE>
-		<ARTIST>Dolly Parton</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>RCA</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1982</YEAR>
+		<name>Ashton Cox</name>
+     	<email>Acox@aol.com</email>
+     	<DOB>1968/01/12</DOB>
+     	<Last_4_SS>3576</Last_4_SS>
+     	<phone>(847)758 9384</phone>
 	</CD>
 	<CD>
-		<TITLE>Still got the blues</TITLE>
-		<ARTIST>Gary Moore</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Virgin records</COMPANY>
-		<PRICE>10.20</PRICE>
-		<YEAR>1990</YEAR>
+		<name>Airi Satou</name>
+     	<email>satou@email.com</email>
+     	<DOB>1981/10/14</DOB>
+     	<Last_4_SS>2349</Last_4_SS>
+      	<phone>(473)845 8495</phone>
 	</CD>
 	<CD>
-		<TITLE>Eros</TITLE>
-		<ARTIST>Eros Ramazzotti</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>BMG</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1997</YEAR>
+		<name>Caesar Vance</name>
+     	<email>lancevance@hotmail.com</email>
+     	<DOB>1985/06/15</DOB>
+     	<Last_4_SS>8639</Last_4_SS>
+     	<phone>(909)787 3924</phone>
 	</CD>
 	<CD>
-		<TITLE>One night only</TITLE>
-		<ARTIST>Bee Gees</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1998</YEAR>
+		<name>Shad Decker</name>
+     	<email>deckerman@aol.com</email>
+     	<DOB>1987/02/28</DOB>
+     	<Last_4_SS>1113</Last_4_SS>
+     	<phone>(674)738 3928</phone>
 	</CD>
 	<CD>
-		<TITLE>Sylvias Mother</TITLE>
-		<ARTIST>Dr.Hook</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>CBS</COMPANY>
-		<PRICE>8.10</PRICE>
-		<YEAR>1973</YEAR>
+		<name>Cedric Kelly</name>
+     	<email>ckelly@email.com</email>
+     	<DOB>1991/09/13</DOB>
+     	<Last_4_SS>0329</Last_4_SS>
+     	<phone>(234)892 2932</phone>
 	</CD>
 	<CD>
-		<TITLE>Maggie May</TITLE>
-		<ARTIST>Rod Stewart</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Pickwick</COMPANY>
-		<PRICE>8.50</PRICE>
-		<YEAR>1990</YEAR>
+		<name>Haley Kennedy</name>
+      	<email>haleyk@msn.com</email>
+      	<DOB>1995/09/29</DOB>
+      	<Last_4_SS>1218</Last_4_SS>
+      	<phone>(296)939 3597</phone>
 	</CD>
 	<CD>
-		<TITLE>Romanza</TITLE>
-		<ARTIST>Andrea Bocelli</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
-		<PRICE>10.80</PRICE>
-		<YEAR>1996</YEAR>
+		<name>Colleen Hurst</name>
+      	<email>hurstdontit@yahoo.com</email>
+      	<DOB>1988/07/18</DOB>
+      	<Last_4_SS>0915</Last_4_SS>
+      	<phone>(595)864 2360</phone>
 	</CD>
 	<CD>
-		<TITLE>When a man loves a woman</TITLE>
-		<ARTIST>Percy Sledge</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Atlantic</COMPANY>
-		<PRICE>8.70</PRICE>
-		<YEAR>1987</YEAR>
+		<name>Dai Rios</name>
+      	<email>dairios@hotmail.com</email>
+      	<DOB>1993/08/17</DOB>
+      	<Last_4_SS>0926</Last_4_SS>
+      	<phone>(122)129 2290</phone>
 	</CD>
 	<CD>
-		<TITLE>Black angel</TITLE>
-		<ARTIST>Savage Rose</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Mega</COMPANY>
-		<PRICE>10.90</PRICE>
-		<YEAR>1995</YEAR>
+		<name>Herrod Chandler</name>
+      	<email>hchandler@hotmail.com</email>
+      	<DOB>1990/06/17</DOB>
+      	<Last_4_SS>2930</Last_4_SS>
+      	<phone>(347)278 2938</phone>
 	</CD>
 	<CD>
-		<TITLE>1999 Grammy Nominees</TITLE>
-		<ARTIST>Many</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Grammy</COMPANY>
-		<PRICE>10.20</PRICE>
-		<YEAR>1999</YEAR>
+		<name>Rhona Davidson</name>
+      	<email>rhonaround@gmail.com</email>
+      	<DOB>1977/08/28</DOB>
+      	<Last_4_SS>1782</Last_4_SS>
+      	<phone>(237)392 0192</phone>
 	</CD>
 	<CD>
-		<TITLE>For the good times</TITLE>
-		<ARTIST>Kenny Rogers</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Mucik Master</COMPANY>
-		<PRICE>8.70</PRICE>
-		<YEAR>1995</YEAR>
+		<name>Sonya Frost</name>
+      	<email>sofrosty@personal.com</email>
+      	<DOB>1982/12/24</DOB>
+      	<Last_4_SS>1023</Last_4_SS>
+      	<phone>(823)829 1928</phone>
 	</CD>
 	<CD>
-		<TITLE>Big Willie style</TITLE>
-		<ARTIST>Will Smith</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Columbia</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1997</YEAR>
+		<name>Jena Gaines</name>
+      	<email>jenag@email.com</email>
+      	<DOB>1984/11/30</DOB>
+      	<Last_4_SS>3485</Last_4_SS>
+      	<phone>(723)345 7849</phone>
 	</CD>
 	<CD>
-		<TITLE>Tupelo Honey</TITLE>
-		<ARTIST>Van Morrison</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Polydor</COMPANY>
-		<PRICE>8.20</PRICE>
-		<YEAR>1971</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Soulsville</TITLE>
-		<ARTIST>Jorn Hoel</ARTIST>
-		<COUNTRY>Norway</COUNTRY>
-		<COMPANY>WEA</COMPANY>
-		<PRICE>7.90</PRICE>
-		<YEAR>1996</YEAR>
-	</CD>
-	<CD>
-		<TITLE>The very best of</TITLE>
-		<ARTIST>Cat Stevens</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Island</COMPANY>
-		<PRICE>8.90</PRICE>
-		<YEAR>1990</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Stop</TITLE>
-		<ARTIST>Sam Brown</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>A and M</COMPANY>
-		<PRICE>8.90</PRICE>
-		<YEAR>1988</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Bridge of Spies</TITLE>
-		<ARTIST>T'Pau</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Siren</COMPANY>
-		<PRICE>7.90</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Private Dancer</TITLE>
-		<ARTIST>Tina Turner</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>Capitol</COMPANY>
-		<PRICE>8.90</PRICE>
-		<YEAR>1983</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Midt om natten</TITLE>
-		<ARTIST>Kim Larsen</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Medley</COMPANY>
-		<PRICE>7.80</PRICE>
-		<YEAR>1983</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Pavarotti Gala Concert</TITLE>
-		<ARTIST>Luciano Pavarotti</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>DECCA</COMPANY>
-		<PRICE>9.90</PRICE>
-		<YEAR>1991</YEAR>
-	</CD>
-	<CD>
-		<TITLE>The dock of the bay</TITLE>
-		<ARTIST>Otis Redding</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>Atlantic</COMPANY>
-		<PRICE>7.90</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Picture book</TITLE>
-		<ARTIST>Simply Red</ARTIST>
-		<COUNTRY>EU</COUNTRY>
-		<COMPANY>Elektra</COMPANY>
-		<PRICE>7.20</PRICE>
-		<YEAR>1985</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Red</TITLE>
-		<ARTIST>The Communards</ARTIST>
-		<COUNTRY>UK</COUNTRY>
-		<COMPANY>London</COMPANY>
-		<PRICE>7.80</PRICE>
-		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
-		<TITLE>Unchain my heart</TITLE>
-		<ARTIST>Joe Cocker</ARTIST>
-		<COUNTRY>USA</COUNTRY>
-		<COMPANY>EMI</COMPANY>
-		<PRICE>8.20</PRICE>
-		<YEAR>1987</YEAR>
+		<name>Quinn Flynn</name>
+      	<email>quinnflynn@business.com</email>
+      	<DOB>1980/10/25</DOB>
+      	<Last_4_SS>0234</Last_4_SS>
+      	<phone>(548)493 3049</phone>
 	</CD>
 </CATALOG>
